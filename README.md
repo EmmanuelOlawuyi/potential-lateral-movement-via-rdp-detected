@@ -1,6 +1,6 @@
 # 🚨 **Potential Lateral Movement via RDP Detected**
 
-**Author:** Aniket RT  
+**Author:** Emmanuel Olawuyi 
 **Date:** Jan 11, Updated: Jan 12  
 **Reading Time:** 8 min
 
